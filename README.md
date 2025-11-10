@@ -14,12 +14,19 @@ Building scalable cloud infrastructure and intelligent automation pipelines usin
 
 ---
 
+![Oje's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojeikere-oje&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojeikere-oje&layout=compact&theme=tokyonight)
+
+
+
 ### 🏗️ Featured Projects
 | Project | Description | Stack |
 |----------|--------------|-------|
 | 🏗️ [**AWS Infra Migration Automation**](https://github.com/ojeikere-oje/aws-infra-migration-automation) | Automated AWS infrastructure migration with Terraform and Ansible | AWS • Terraform • Ansible |
 | ⚙️ [**AWS CI/CD Pipeline Automation**](https://github.com/ojeikere-oje/aws-cicd-pipeline-automation) | Dockerized FastAPI app with GitHub Actions & ECS | AWS • ECS • ECR • Terraform |
 | 🔍 [**AI Log Analyzer for AWS CloudWatch**](https://github.com/ojeikere-oje/aws-ai-log-analyzer) | AI-powered log insight system with Lambda & LLM API | AWS • Lambda • CloudWatch • AI |
+![AI Log Analyzer Diagram](https://raw.githubusercontent.com/ojeikere-oje/aws-ai-log-analyzer/main/diagrams/aws-ai-log-analyzer-architecture.png)
 | 🚨 [**Monitoring & Incident Response Automation**](https://github.com/ojeikere-oje/aws-incident-response-automation) | Self-healing AWS monitoring system | CloudWatch • SNS • Lambda • Ansible |
 
 ---
