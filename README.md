@@ -40,3 +40,7 @@ Building scalable cloud infrastructure and intelligent automation pipelines usin
 ---
 
 ⭐ **Tip:** *If you like my projects, consider starring them — it helps more engineers discover AI-driven DevOps ideas!*
+
+
+![Banner](https://raw.githubusercontent.com/ojeikere-oje/aws-cicd-pipeline-automation/main/diagrams/aws-cicd-architecture.png)
+
