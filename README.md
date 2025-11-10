@@ -14,9 +14,9 @@ Building scalable cloud infrastructure and intelligent automation pipelines usin
 
 ---
 
-![Oje's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojeikere-oje&show_icons=true&theme=tokyonight)
+![Oje's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojeojeikere-study&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojeikere-oje&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojeojeikere-study&layout=compact&theme=tokyonight)
 
 
 
